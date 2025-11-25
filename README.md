@@ -1,6 +1,5 @@
 # 🚀 Trader Behavior Insights  
 ### Understanding Trader Performance Through Market Sentiment & Volatility  
-*Junior Data Scientist Assignment*
 
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -216,4 +215,5 @@ This repository is part of a hiring assignment and is not intended for redistrib
 
 ## 📩 Contact
 For questions or collaboration, please reach out.
+
 
